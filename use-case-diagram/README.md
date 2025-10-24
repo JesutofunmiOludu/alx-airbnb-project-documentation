@@ -6,7 +6,8 @@ The diagram was created using **Draw.io** to visualize key interactions between 
 
 
 
-![Use Case Diagram ](./use-case-diagram.drawio.png)
+![Use Case Diagram ](alx-airbnb-project-documentation
+/use-case-diagram.drawio.png)
 
 ---
 
