@@ -4,9 +4,7 @@
 This document explains the **Use Case Diagram** for the **Airbnb Clone Backend System**.  
 The diagram was created using **Draw.io** to visualize key interactions between users and the system — focusing on user registration, property listings, booking, payments, and administrative functions.
 
-## 🏗️ Airbnb Clone Backend Architecture
 
-Below is the backend architecture overview of the project.
 
 ![Use Case Diagram ](use-case-diagram.drawio.png)
 
