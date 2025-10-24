@@ -6,7 +6,7 @@ Learners will **identify and document** the key features and functionalities req
 
 Below is the backend architecture overview of the project.
 
-![Airbnb Backend Architecture](alx-airbnb-project-documentation/alx-airbnb-project-documentation.drawio.png)
+![Airbnb Backend Architecture](alx-airbnb-project-documentation.drawio.png)
 
 
 ![Airbnb Backend Architecture](alx-airbnb-project-documentation/airbnb_backend_architecture.png)
