@@ -3,6 +3,14 @@
 ## 🎯 Objective
 Learners will **identify and document** the key features and functionalities required to build the **Airbnb Clone backend**, focusing on the **technical**, **functional**, and **non-functional requirements** for a **scalable**, **secure**, and **robust** rental marketplace system.
 
+
+Below is the backend architecture overview of the project.
+
+![Airbnb Backend Architecture](alx-airbnb-project-documentation/airbnb_backend_architecture.png)
+
+
+![Airbnb Backend Architecture](alx-airbnb-project-documentation/airbnb_backend_architecture.png)
+
 ---
 
 ## 📚 Introduction
